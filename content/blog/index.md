@@ -22,9 +22,9 @@ We work with them to provide feedback and guidance while they write an article o
 ## Introductory
 Check out our first articles!
 
-- [Longevity in Sci-Fi literature]([https://longevityxplorer.substack.com/](https://longevityxplorer.substack.com/p/longevity-in-sci-fi-literature)): How good are our predictions really?
-- [Rapamycin 101]([https://longevityxplorer.substack.com/](https://longevityxplorer.substack.com/p/rapamycin-101)): A molecular biology rant about the anti-aging drug we all heard of.
-- [Aging and Longevity: Defining The Words]([https://longevityxplorer.substack.com/](https://longevityxplorer.substack.com/p/aging-and-longevity-defining-the)): Diving deeper on the origin of the words and which one you should use.
+- [Longevity in Sci-Fi literature](https://longevityxplorer.substack.com/p/longevity-in-sci-fi-literature): How good are our predictions really?
+- [Rapamycin 101](https://longevityxplorer.substack.com/p/rapamycin-101): A molecular biology rant about the anti-aging drug we all heard of.
+- [Aging and Longevity: Defining The Words](https://longevityxplorer.substack.com/p/aging-and-longevity-defining-the): Diving deeper on the origin of the words and which one you should use.
 
 [Back to top](#index-content-by-topic)
 
