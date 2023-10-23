@@ -39,7 +39,7 @@ Diving deeper into questions that spark your interest is beneficial for people w
 ---
 
 ## Personal stories
-You did some cool longevity stuff or have unique ideas? Share your story and perspective!
+Did you do some cool longevity stuff or have unique ideas? Share your story and perspective!
 Do you know someone else who falls into that category? Don't be afraid to interview them or share their work with us!
 
 [Back to top](#index-content-by-topic)
