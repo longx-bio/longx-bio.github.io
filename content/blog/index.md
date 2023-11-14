@@ -4,11 +4,11 @@ date:
 draft: false
 ---
 
-Recieve updates in your inbox via our [substack](https://longevityxplorer.substack.com/). 
+Receive updates in your inbox via our [substack](https://longevityxplorer.substack.com/). 
 
 As part of our mission to empower rising generations within the longevity sector, we **provide mentorship to high school and undergraduate students** to encourage an early interest in the field. One way to do so is by connecting them with the right **academia** and **industry**-based people. Another way is by direct, case-by-case advising.
 
-In early stages, we work to provide feedback and guidance while they (the young enthusiasts) write articles on topics of their choice, and then share them here. We also connect these students with relevant **resources and opportunities** along the way. 
+In the early stages, we work to provide feedback and guidance while they (the young enthusiasts) write articles on topics of their choice, and then share them here. We also connect these students with relevant **resources and opportunities** along the way. 
 
 Keep in touch with us to receive updates on our **collaborations** and **progress**!
 
@@ -36,7 +36,7 @@ Check out our first articles!
 
 ## Deep dives
 The topics we cover don't have to just scratch the surface of what is longevity about, and what one can do. 
-Diving deeper into questions that spark your interest is beneficial for people with an obsession for the same questions that you have.
+Diving deeper into questions that spark your interest is beneficial for people with an obsession with the same questions that you have.
 
 
 ---
