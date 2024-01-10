@@ -3,7 +3,7 @@ title: "Blog"
 date: 
 draft: false
 ---
-**Stay updated in your own inbox via our [substack](https://longevityxplorer.substack.com/). **
+**Stay updated in your own inbox via our [substack](https://longevityxplorer.substack.com/)**
 
 As part of our mission to empower rising generations within the longevity sector, we **provide mentorship to high school and undergraduate students** to encourage an early interest in the field. One way to do so is by connecting them with the right **academia** and **industry**-based people and resources. Another way is by direct, case-by-case advising.
 
