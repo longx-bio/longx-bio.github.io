@@ -42,8 +42,6 @@ category = "categories"
 tag = "tags"
 series = "series"
 
-filters:
-  - newpagelink.lua
 
 
 
