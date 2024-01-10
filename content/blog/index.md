@@ -22,9 +22,9 @@ We aim to document professional experience journals of young experts breaking th
 
 - [Being YOUNG, in Longevity](https://longevityxplorer.substack.com/p/being-young-in-longevity): What can you do?
   
-- [The 2023 Seno-Therapeutics Summit](https://longevityxplorer.substack.com/p/the-2023-seno-therapeutics-summit): An undergraduate's first longevity conference experience
+- [The 2023 Seno-Therapeutics Summit](https://longevityxplorer.substack.com/p/the-2023-seno-therapeutics-summit): An undergraduate's first longevity conference experience.
   
-- [Longevity food for thought](https://longevityxplorer.substack.com/p/longevity-food-for-thought): An article about perspectives in Longevity
+- [Longevity food for thought](https://longevityxplorer.substack.com/p/longevity-food-for-thought): An article about perspectives in Longevity.
   
 - [Longevity in Sci-Fi literature](https://longevityxplorer.substack.com/p/longevity-in-sci-fi-literature): How good are our predictions really?
   
