@@ -7,7 +7,7 @@ draft: false
 
 As part of our mission to empower rising generations within the longevity sector, we **provide mentorship to high school and undergraduate students** to encourage an early interest in the field. One way to do so is by connecting them with the right **academia** and **industry**-based people and resources. Another way is by direct, case-by-case advising.
 
-As we operate in stealth in our early stages, we work to provide feedback and guidance while they (the young enthusiasts) write articles on topics of their choice and interest, have them professionally reviewed, and then share them here. We also connect these students with relevant **resources and opportunities** along the way. 
+As we operate in stealth during our early stages, we work to provide feedback and guidance while they (the young enthusiasts) write articles on topics of their choice and interest, have them professionally reviewed, and then share them here. We also connect these students with relevant **resources and opportunities** along the way. 
 
 Keep in touch with us to receive updates on our **collaborations** and **progress**!
 
