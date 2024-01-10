@@ -15,7 +15,8 @@ Keep in touch with us to receive updates on our **collaborations** and **progres
 ---
 ## Articles for All
 As a Commitment to pushing the Aging and Longevity Field forward, we publish our content and learnings publicly.
-We aim to document professional experience journals of young experts breaking the traditional career pipelines and entering the field from diverse directions. Documenting and Sharing the evolving field is a must!
+We aim to document professional experience journals of young experts breaking the traditional career pipelines and entering the field from diverse directions. 
+Documenting and Sharing the evolving field is a must!
 
 **Below are our articles published while we continue to build content and resources in stealth!**
 
