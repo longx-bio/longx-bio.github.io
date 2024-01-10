@@ -16,7 +16,7 @@ Follow us on LinkedIn, X (Twitter), and Facebook.
 
 
 
-![LongX Banner](./banner.png "LongX Banner")
+![LongX Banner](./Banner.png "LongX Banner")
 
 ---
 
