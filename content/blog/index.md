@@ -20,6 +20,7 @@ Documenting and Sharing the evolving field is a must!
 
 **Below are our articles published while we continue to build content and resources in stealth!**
 
+- <a href="https://longevityxplorer.substack.com/p/being-young-in-longevity" target="_blank">Being YOUNG, in Longevity</a>: What can you do?
 
 - [Being YOUNG, in Longevity](https://longevityxplorer.substack.com/p/being-young-in-longevity): What can you do?
   
