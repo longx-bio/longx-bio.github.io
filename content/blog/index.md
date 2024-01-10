@@ -32,7 +32,8 @@ We aim to document professional experience journals of young experts breaking th
   
 - [Aging and Longevity: Defining The Words](https://longevityxplorer.substack.com/p/aging-and-longevity-defining-the): Diving deeper on the origin of the words and which one you should use.
 
-
+---
+Interested in collaborating on an article or writing for LongX? Reach out to **hi@longx.bio**
 <!---
 USE THIS FUTURE GITHUBBERS AND PLACE THE APPROPRIATE CONTENT INSIDE FOR ARTICLE LINKS UNTIL WE CAN FIND A BETTER WAY TO INTEGRATE SUBSTACK API/CONTENT
 
