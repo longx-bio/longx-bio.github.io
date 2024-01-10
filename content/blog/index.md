@@ -3,7 +3,7 @@ title: "Blog"
 date: 
 draft: false
 ---
-**Stay updated in your own inbox via our [substack](https://longevityxplorer.substack.com/)**
+**Stay updated in your own inbox via our <a href="https://longevityxplorer.substack.com/" target="_blank">Substack</a>**
 
 As part of our mission to empower rising generations within the longevity sector, we **provide mentorship to high school and undergraduate students** to encourage an early interest in the field. One way to do so is by connecting them with the right **academia** and **industry**-based people and resources. Another way is by direct, case-by-case advising.
 
@@ -21,6 +21,30 @@ Documenting and Sharing the evolving field is a must!
 **Below are our articles published while we continue to build content and resources in stealth!**
 
 - <a href="https://longevityxplorer.substack.com/p/being-young-in-longevity" target="_blank">Being YOUNG, in Longevity</a>: What can you do?
+  
+- <a href="https://longevityxplorer.substack.com/p/the-2023-seno-therapeutics-summit" target="_blank">The 2023 Seno-Therapeutics Summit</a>: An undergraduate's first longevity conference experience.
+
+- <a href="https://longevityxplorer.substack.com/p/longevity-food-for-thought)" target="_blank">Longevity food for thought</a>: An article exploring perspectives in Longevity.
+
+- <a href="https://longevityxplorer.substack.com/p/longevity-in-sci-fi-literature" target="_blank">Longevity in Sci-Fi literature</a>: How good are our predictions really?
+
+- <a href="https://longevityxplorer.substack.com/p/rapamycin-101" target="_blank">Rapamycin 101</a>: A molecular biology rant about the anti-aging drug we all heard of.
+
+- <a href="https://longevityxplorer.substack.com/p/aging-and-longevity-defining-the" target="_blank">Aging and Longevity: Defining The Words</a>: Diving deeper on the origin of the words and which one you should use.
+
+---
+Interested in collaborating on an article or writing for LongX? Reach out to **hi@longx.bio**
+<!---
+
+
+
+USE THIS FUTURE GITHUBBERS AND PLACE THE APPROPRIATE CONTENT INSIDE FOR ARTICLE LINKS UNTIL WE CAN FIND A BETTER WAY TO INTEGRATE SUBSTACK API/CONTENT
+NEW METHOD USING HTML - OPENS LINK IN NEW TAB
+- <a href="link.com" target="_blank">title</a>: Subtitle
+
+OLD METHOD OPENS LINK ON SAME TAB
+[Article title here](substack link here): Subtitle/attention grab here
+
 
 - [Being YOUNG, in Longevity](https://longevityxplorer.substack.com/p/being-young-in-longevity): What can you do?
   
@@ -33,14 +57,6 @@ Documenting and Sharing the evolving field is a must!
 - [Rapamycin 101](https://longevityxplorer.substack.com/p/rapamycin-101): A molecular biology rant about the anti-aging drug we all heard of.
   
 - [Aging and Longevity: Defining The Words](https://longevityxplorer.substack.com/p/aging-and-longevity-defining-the): Diving deeper on the origin of the words and which one you should use.
-
----
-Interested in collaborating on an article or writing for LongX? Reach out to **hi@longx.bio**
-<!---
-USE THIS FUTURE GITHUBBERS AND PLACE THE APPROPRIATE CONTENT INSIDE FOR ARTICLE LINKS UNTIL WE CAN FIND A BETTER WAY TO INTEGRATE SUBSTACK API/CONTENT
-
-[Article title here](substack link here): Subtitle/attention grab here
-
 
 - [Introductory](#introductory)
 - [Deep dives](#deep-dives)
