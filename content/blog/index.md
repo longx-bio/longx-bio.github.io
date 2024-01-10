@@ -3,18 +3,41 @@ title: "Blog"
 date: 
 draft: false
 ---
+**Stay updated in your own inbox via our [substack](https://longevityxplorer.substack.com/). **
 
-Receive updates in your inbox via our [substack](https://longevityxplorer.substack.com/). 
+As part of our mission to empower rising generations within the longevity sector, we **provide mentorship to high school and undergraduate students** to encourage an early interest in the field. One way to do so is by connecting them with the right **academia** and **industry**-based people and resources. Another way is by direct, case-by-case advising.
 
-As part of our mission to empower rising generations within the longevity sector, we **provide mentorship to high school and undergraduate students** to encourage an early interest in the field. One way to do so is by connecting them with the right **academia** and **industry**-based people. Another way is by direct, case-by-case advising.
-
-In the early stages, we work to provide feedback and guidance while they (the young enthusiasts) write articles on topics of their choice, and then share them here. We also connect these students with relevant **resources and opportunities** along the way. 
+As we operate in stealth in our early stages, we work to provide feedback and guidance while they (the young enthusiasts) write articles on topics of their choice and interest, have them professionally reviewed, and then share them here. We also connect these students with relevant **resources and opportunities** along the way. 
 
 Keep in touch with us to receive updates on our **collaborations** and **progress**!
 
-## What we've written:
 
-Writing is a powerful tool. Whether the goal is to improve your writing skills, get your unique thoughts out there, or you want to gain some leverage and exposure out of it, we are here for it.
+---
+## Articles for All
+As a Commitment to pushing the Aging and Longevity Field forward, we publish our content and learnings publicly.
+We aim to document professional experience journals of young experts breaking the traditional career pipelines and entering the field from diverse directions. Documenting and Sharing the evolving field is a must!
+
+**Below are our articles published while we continue to build content and resources in stealth!**
+
+
+- [Being YOUNG, in Longevity](https://longevityxplorer.substack.com/p/being-young-in-longevity): What can you do?
+  
+- [The 2023 Seno-Therapeutics Summit](https://longevityxplorer.substack.com/p/the-2023-seno-therapeutics-summit): An undergraduate's first longevity conference experience
+  
+- [Longevity food for thought](https://longevityxplorer.substack.com/p/longevity-food-for-thought):An article about perspectives in Longevity
+  
+- [Longevity in Sci-Fi literature](https://longevityxplorer.substack.com/p/longevity-in-sci-fi-literature): How good are our predictions really?
+  
+- [Rapamycin 101](https://longevityxplorer.substack.com/p/rapamycin-101): A molecular biology rant about the anti-aging drug we all heard of.
+  
+- [Aging and Longevity: Defining The Words](https://longevityxplorer.substack.com/p/aging-and-longevity-defining-the): Diving deeper on the origin of the words and which one you should use.
+
+
+<!---
+USE THIS FUTURE GITHUBBERS AND PLACE THE APPROPRIATE CONTENT INSIDE FOR ARTICLE LINKS UNTIL WE CAN FIND A BETTER WAY TO INTEGRATE SUBSTACK API/CONTENT
+
+[Article title here](substack link here): Subtitle/attention grab here
+
 
 - [Introductory](#introductory)
 - [Deep dives](#deep-dives)
@@ -58,7 +81,7 @@ Did you ever search on Google for answers to a most random (longevity-related) s
 
 ## Curated lists
 We aim to share lists of resources anyone can use to expand their skills, gain experience, meet new longevity folks, and become who they want to be.
-  
-    
 
----
+---    
+--->
+
